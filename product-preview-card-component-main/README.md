@@ -22,7 +22,7 @@ Responsive web page using just html and css
 
 ### Screenshot
 
-![](C:\Users\mateu\OneDrive\Área de Trabalho\Desenvolvimento Web\Projetos\product-preview-card-component-main\images\screenshot.jpg)
+![C:\Users\mateu\OneDrive\Área de Trabalho\Desenvolvimento Web\Projetos\product-preview-card-component-main\images\screenshot.jpg](./screenshot.jpg)
 
 
 
